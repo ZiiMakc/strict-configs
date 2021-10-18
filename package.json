@@ -1,0 +1,24 @@
+{
+  "name": "strict-configs",
+  "version": "0.0.5",
+  "description": "Strict configurations for typescript projects",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZiiMakc/strict-configs.git"
+  },
+  "author": "Maksim Zaborovskiy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZiiMakc/strict-configs/issues"
+  },
+  "homepage": "https://github.com/ZiiMakc/strict-configs#readme",
+  "keywords": [
+    "es6",
+    "typescript",
+    "ts",
+    "style"
+  ]
+}
