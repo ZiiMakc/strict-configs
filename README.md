@@ -3,6 +3,7 @@
 Usage:
 
 1. Install package `npm install strict-configs`
+1. Install tslib `npm install tslib` for `importHelpers` to work
 2. Extend your configs:
 
 ```
